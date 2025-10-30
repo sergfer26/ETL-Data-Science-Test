@@ -1,4 +1,4 @@
-## ETL & Data Science (WIP)
+## ETL & Data Science
 
 Proyecto que combina un pipeline ETL (en construcción) y un ejericio de data science.
 
