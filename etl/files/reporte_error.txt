@@ -1,0 +1,4 @@
+email|fecha_visita|jyv|Badmail|Baja|Fecha_envio|Fecha_open|Opens|Opens_virales|Fecha_click|Clicks|Clicks_virales|Links|IPs|Navegadores|Plataformas
+usuario-invalido.com|15/03/2024 14:30|campaign_001|0|0|15/03/2024 14:00|15/03/2024 14:32|1|0|15/03/2024 14:35|2|0|link1,link2|192.168.1.100|Chrome|Windows
+usuario5@valido.com|32/13/2024 25:61|campaign_002|0|0|14/03/2024 09:00|14/03/2024 09:05|1|0|14/03/2024 09:10|1|0|link3|192.168.1.101|Firefox|Linux
+usuario6@empresa.com|15/03/2024 09:30|campaign_003|0|0|15/03/2024 09:00|15/03/2024 09:32|uno|0|15/03/2024 09:35|dos|0|link4|192.168.1.102|Safari|macOS

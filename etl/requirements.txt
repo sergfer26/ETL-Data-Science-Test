@@ -1,0 +1,6 @@
+dotenv==0.9.9
+ipython==8.37.0
+loguru==0.7.3
+pandas==2.3.3
+pip-chill==1.0.3
+pysftp==0.2.9

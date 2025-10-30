@@ -1,0 +1,7 @@
+email|fecha_visita|jyv|Badmail|Baja|Fecha_envio|Fecha_open|Opens|Opens_virales|Fecha_click|Clicks|Clicks_virales|Links|IPs|Navegadores|Plataformas
+maria.gonzalez@compania.com|15/03/2024 14:30|welcome_campaign|0|0|15/03/2024 14:00|15/03/2024 14:32|1|0|15/03/2024 14:35|2|0|/products,/contact|192.168.1.100|Chrome 120|Windows 10
+juan.perez@empresa.org|15/03/2024 10:15|newsletter_mar|1|0|14/03/2024 09:00||0|0||0|0||||
+ana.lopez@gmail.com|16/03/2024 09:45|promo_q1_2024|0|1|16/03/2024 09:30|16/03/2024 09:46|1|1|16/03/2024 09:50|3|1|/offer,/products,/support|190.45.210.75|Firefox 115|Ubuntu 22.04
+carlos.rodriguez@empresa.com|16/03/2024 16:20|webinar_april|0|0|16/03/2024 16:00|16/03/2024 16:22|1|0||0|0||192.168.1.150|Edge 122|Windows 11
+lucia.martinez@hotmail.com|17/03/2024 11:00|newsletter_mar|0|0|17/03/2024 10:45|17/03/2024 11:02|1|0|17/03/2024 11:10|1|0|/blog/post123|201.130.45.89|Safari 17|macOS 14.3
+maria.gonzalez@compania.com|17/03/2024 18:45|promo_q1_2024|0|0|17/03/2024 18:30|17/03/2024 18:47|1|0|17/03/2024 18:50|1|0|/products/special|192.168.1.100|Chrome 120|Windows 10
